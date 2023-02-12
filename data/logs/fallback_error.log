@@ -1,0 +1,5 @@
+2023/02/11 17:40:58 [error] 281#281: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "127.0.0.1:81", referrer: "http://127.0.0.1:81/"
+2023/02/11 17:49:30 [warn] 229#229: server name "http://171.96.120.53/" has suspicious symbols in /data/nginx/proxy_host/1.conf:15
+2023/02/11 18:44:58 [warn] 232#232: server name "http://171.96.120.53/" has suspicious symbols in /data/nginx/proxy_host/1.conf:15
+2023/02/11 18:45:49 [warn] 232#232: server name "http://171.96.120.53/" has suspicious symbols in /data/nginx/proxy_host/1.conf:15
+2023/02/11 18:45:49 [warn] 232#232: server name "http://171.96.120.53:27017/" has suspicious symbols in /data/nginx/proxy_host/2.conf:15
